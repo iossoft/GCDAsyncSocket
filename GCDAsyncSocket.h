@@ -13,7 +13,7 @@
 #import <dispatch/dispatch.h>
 
 @class GCDAsyncReadPacket;
-@class GCDAsyncWritePacket;
+@class //GCDAsyncWritePacket;
 
 extern NSString *const GCDAsyncSocketException;
 extern NSString *const GCDAsyncSocketErrorDomain;
