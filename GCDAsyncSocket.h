@@ -8,6 +8,7 @@
 //  http://code.google.com/p/cocoaasyncsocket/
 //
 
+// this is a new line for new function of v1.2
 #import <Foundation/Foundation.h>
 #import <Security/Security.h>
 #import <dispatch/dispatch.h>
